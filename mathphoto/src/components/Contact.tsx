@@ -11,7 +11,7 @@ const Contact: React.FC = () => {
           Contact Me
         </Typography>
         <Typography variant="body1" sx={{ color: '#FFFFFF', marginBottom: 2 }}>
-          Let's work together! Contact me at: photographer@example.com
+          Let's work together! Contact me at: mathsenajp@gmail.com
         </Typography>
         <Box>
           <IconButton aria-label="Instagram" sx={{ color: '#FFFFFF' }}>
