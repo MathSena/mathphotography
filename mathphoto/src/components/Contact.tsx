@@ -2,10 +2,11 @@ import React from 'react';
 import { Container, Typography, Box, IconButton } from '@mui/material';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import EmailIcon from '@mui/icons-material/Email';
+import { blueGrey } from '@mui/material/colors';
 
 const Contact: React.FC = () => {
   return (
-    <Box id="contact" sx={{ backgroundColor: '#000000', padding: '50px 0' }}>
+    <Box id="contact" sx={{ backgroundColor: blueGrey, padding: '50px 0' }}>
       <Container maxWidth="md" sx={{ textAlign: 'center' }}>
         <Typography variant="h2" sx={{ color: '#FFFFFF', marginBottom: 3 }}>
           Contact Me
